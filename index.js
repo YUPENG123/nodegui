@@ -1,3 +1,3 @@
-const ng = import ('@nodegui/nodegui')
+const ng = require ('@nodegui/nodegui')
 
 console.log('ng')
