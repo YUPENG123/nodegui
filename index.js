@@ -1,3 +1,3 @@
-const ng = require ('@nodegui/nodegui')
+const ng = require ('nodegui')
 
 console.log(ng)
