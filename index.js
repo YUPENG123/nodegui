@@ -1,3 +1,3 @@
 const ng = require ('@nodegui/nodegui')
 
-console.log('ng')
+console.log(ng)
